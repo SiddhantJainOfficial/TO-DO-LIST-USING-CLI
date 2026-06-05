@@ -1,0 +1,58 @@
+{
+  "tasks": [
+    {
+      "id": "TM-SAMPLE-002",
+      "title": "BRUH",
+      "status": "completed",
+      "priority": "High",
+      "dueDate": null,
+      "createdAt": "2025-05-29T10:15:00.000Z",
+      "completedAt": "2026-06-05T05:46:17.620Z"
+    },
+    {
+      "id": "TM-SAMPLE-003",
+      "title": "Review pull requests from the team",
+      "status": "pending",
+      "priority": "Medium",
+      "dueDate": "2025-06-07",
+      "createdAt": "2025-05-30T08:30:00.000Z",
+      "completedAt": null
+    },
+    {
+      "id": "TM-SAMPLE-004",
+      "title": "Update project README documentation",
+      "status": "pending",
+      "priority": "Low",
+      "dueDate": null,
+      "createdAt": "2025-05-31T11:00:00.000Z",
+      "completedAt": null
+    },
+    {
+      "id": "TM-MQ0I5EOE-ASD",
+      "title": "1",
+      "status": "pending",
+      "priority": "Medium",
+      "dueDate": null,
+      "createdAt": "2026-06-05T05:47:16.238Z",
+      "completedAt": null
+    },
+    {
+      "id": "TM-MQ0J5KNN-HCA",
+      "title": "shivangiu",
+      "status": "pending",
+      "priority": "High",
+      "dueDate": "2026-04-03",
+      "createdAt": "2026-06-05T06:15:23.603Z",
+      "completedAt": null
+    },
+    {
+      "id": "TM-MQ0JCRRF-KDE",
+      "title": "2020",
+      "status": "pending",
+      "priority": "Low",
+      "dueDate": null,
+      "createdAt": "2026-06-05T06:20:59.403Z",
+      "completedAt": null
+    }
+  ]
+}
