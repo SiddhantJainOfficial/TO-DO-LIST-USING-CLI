@@ -19,6 +19,8 @@ A feature-rich, interactive command-line To-Do List Manager built with Node.js a
 | **Persistent storage** | All data saved to a local JSON file — survives restarts                 |
 | **Colour output**      | Priority badges, overdue warnings, status icons                         |
 
+<img width="724" height="645" alt="image" src="https://github.com/user-attachments/assets/89f96d35-4915-4731-89ea-1dfd25fe5e1d" />
+
 ---
 
 ## Tech Stack
