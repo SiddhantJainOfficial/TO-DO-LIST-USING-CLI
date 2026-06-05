@@ -97,6 +97,9 @@ Deletion requires explicit confirmation (`y`) to prevent accidental data loss.
 
 ## Project Structure
 
+<img width="724" height="645" alt="image" src="https://github.com/user-attachments/assets/0f38851b-8339-41b0-b589-e741a2013297" />
+
+
 ```
 taskmaster-cli/
 │
