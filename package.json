@@ -1,0 +1,29 @@
+{
+  "name": "taskmaster-cli",
+  "version": "1.0.0",
+  "description": "A feature-rich CLI To-Do List Manager with priorities, due dates, search, and statistics",
+  "main": "index.js",
+  "bin": {
+    "taskmaster": "./index.js"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js"
+  },
+  "keywords": [
+    "todo",
+    "cli",
+    "task-manager",
+    "productivity",
+    "nodejs"
+  ],
+  "author": "TaskMaster CLI",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "readline-sync": "^1.4.10"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
